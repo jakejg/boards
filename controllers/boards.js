@@ -6,4 +6,3 @@ const Boards = require('../models/boards');
  * 2: In Progress
  * 3: Completed
  */
-
